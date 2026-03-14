@@ -134,3 +134,11 @@ MIT License
 ## Key Insight
 
 This formula is not a heuristic but a mathematical theorem. It inevitably, universally, and deterministically can parse the semantics of any neural network.
+
+#Qwen 2.5 1.5B
+
+![1](https://raw.githubusercontent.com/Winamin/nn-semantic-extractor/main/layer_evolution.png)
+
+![2](https://raw.githubusercontent.com/Winamin/nn-semantic-extractor/main/neuron_expertise.png)
+
+![3](https://raw.githubusercontent.com/Winamin/nn-semantic-extractor/main/semantic_pca.png)
